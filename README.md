@@ -87,12 +87,6 @@ In **Single Player Mode**, the computer ('O') uses **Minimax**, a recursive algo
 
 ---
 
-## 📄 License
-
-This project is open-source and free to use under the [MIT License](LICENSE).
-
----
-
 ## 🙌 Acknowledgements
 
 - Built using the classic **Minimax Algorithm**
